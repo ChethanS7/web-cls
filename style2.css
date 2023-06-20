@@ -1,0 +1,28 @@
+.details{
+    width: 150;
+    height: 1000;
+    border:10px solid rgb(122, 246, 14);
+    margin-top: 50px;
+    margin-left: 50px;
+    text-align:10px ;
+}
+
+.ad{
+    width: 270px;
+    height: 210px;
+}
+
+#p1{
+    margin-left: 80px;
+}
+
+#p2{
+    padding-top: 20px;
+    margin-left: 80px;
+}
+
+
+.d{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgb(43, 226, 46);
+}

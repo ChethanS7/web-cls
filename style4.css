@@ -1,0 +1,24 @@
+h1{
+    color: rgb(226, 98, 43);
+}
+h2{
+    color: rgb(140, 206, 206);
+}
+
+.odd{
+    color: rgb(56, 34, 143);
+}
+
+.even{
+    color:rgb(77, 10, 11)
+}
+
+#special{
+    color: rgb(13, 122, 120);
+    background-color: rgb(44, 116, 15);
+    transition: 4sec;
+    text-transform: capitalize;
+    text-align: center;
+    text-shadow: crimson;
+}
+
